@@ -4,7 +4,7 @@
 title = Tap - fight
 
 # (str) Package name
-package.name = mobileapp001
+package.name = mobileapp1
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
